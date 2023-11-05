@@ -1,1 +1,1 @@
-# JSCanvas-Masjid
+# JSCanvas-Musholla
